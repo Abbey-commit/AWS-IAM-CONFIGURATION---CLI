@@ -1,5 +1,2 @@
-<<<<<<< HEAD
-Your local changes
-=======
-Remote repo content
->>>>>>> origin/main
+# AWS-IAM-CONFIGURATION---CLI
+Creating an s3 bocket using aws cli that is being configured with an IAM user
